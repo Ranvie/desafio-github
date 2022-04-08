@@ -1,8 +1,8 @@
-# Pensamento Computacional
+# :computer: Pensamento Computacional :computer:
 ## Instrutora: Juliana Mascarenhas
-
-### Resumo
+  
+#### Resumo
 O curso abordou assuntos iniciais de habilidades que são necessárias para um desenvolvedor abstrair um problema em partes menores, em um processo de **decomposição** do problema. Logo após ter partes menores analisáveis, é possível averiguar certos padrões, e definir uma prioridade para as tarefas, assim utilizando o **reconhecimento de padrões**. Depois desse processo temos a **abstração**, onde se transforma um problema genérico em um problema único, seria algo como um conceito de classes aplicado, por exemplo, temos um carro, onde podemos definir propriedades do mesmo como marca, modelo, ano de lançamento, e outras propriedades. Dentro de modelo teremos as peças, pode-se citar portas, rodas, janelas, faróis e outros, e cada um desses possui um método, ou seja, sua própria função dentro do projeto do carro. Por fim temos os **algoritmos** que servem como um passo a passo para a conclusão de uma tarefa. Essa é a forma mais básica para ensinar um computador a completar uma determinada tarefa, seja ela calcular uma soma, gerenciar um sistema de produtos de uma loja, fazer derivadas, ou afins, que possuem uma relação de pré-requisitos, ou seja, é necessário completar uma tarefa anterior para poder prosseguir a ordem lógica. Não é necessário ter todos esses pilares na composição da resolução de um problema.
 
-### Considerações finais
+#### Considerações finais
 Gostei muito das aulas e a forma com que a instrutora mostra as informações é bem concisa, também existem muitos exemplos para o entendimento. Outro fator interessante é a citação de algoritmos muito importantes de estruturação de dados, como grafos, busca binária e outros, que são vastamente usados.
