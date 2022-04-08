@@ -1,0 +1,10 @@
+# Introdução ao Git e ao Github
+## Instrutor: Otávio Perkles
+
+#### Resumo
+Nesse curso a tecnologia Git foi abordada. Primeiramente foi feita a instalação do software, logo após algumas explicações foram abordadas como: o conceito de blobs (encapsulamento individual dos itens), branchs (hierarquia em árvore que indica a estrutura de pastas e arquivos do repositório) e os commits (salva o estado do repositório, gerando um código hash que garante a segurança contra alterações, mas que também serve para separar as commits e as recuperar sempre que necessário). Os conceitos de untraked (quando os arquivos ainda não foram adicionados ao repositório, então o git não tem ciência deles), unmodified (já está em estrutura de repositório e não houveram modificações desde o último commit), modified (Houveram mudanças desde o último commit) e staged (As configurações/Alterações que serão salvas no próximo commit) foram mostrados.  
+Comandos muito importantes foram apresentados, como "git init" que inicializa um repositório, "git add" que adiciona arquivos/pastas para o estado de staged, "git commit" que salva o estado atual do repositório, fora outros comandos importantes, resumindo, "git branch", "git checkout", "git push", "git pull" e vários outros.  
+Por mais que não tenha sido o foco do curso, também foi apresentada a forma com que se navega nos terminais, sejam eles do linux ou do windows, e alguns comandos básicos de mudança de diretório, remoção e criação de arquivos e outros.
+
+#### Considerações finais
+A forma com que os conteúdos foram passados pode ser um pouco complexa no começo, mesmo tendo conhecimento prévio de estrutura de dados, porém, a forma com que os conteúdos foram abordados deixa tudo mais claro e exemplos não faltam. O curso foi extremamente interessante, tem tanto a parte teórica de como a estrutura do git funciona como a parte prática de criar um repositório e o abastecer com arquivos. Foi meu primeiro contato com git e github, e com certeza irei utilizar esses gerenciadores de versionamento em meus projetos futuros. 
